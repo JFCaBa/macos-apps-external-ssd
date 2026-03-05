@@ -15,7 +15,7 @@ internal SSD space, that adds up fast.
 The trick: move what you can to an external drive and leave a symlink behind so
 macOS and Spotlight still find everything in the expected places.
 
-I use a **HIKSEMI 512 GB USB-C SSD** — it's tiny enough to leave plugged in
+I use a **HIKSEMI 256 GB USB-C SSD** — it's tiny enough to leave plugged in
 permanently on one USB-C port while keeping the other free for charging or a dock.
 
 ---
