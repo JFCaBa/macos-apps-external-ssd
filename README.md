@@ -4,8 +4,6 @@ Free up internal storage on a nearly-full Mac by moving WhatsApp and Telegram
 to a small external SSD. The apps continue to work normally — macOS sees them
 in `/Applications` via symlinks.
 
-![HIKSEMI SSD plugged into MacBook Air](images/image-1.jpeg)
-
 ---
 
 ## Why
@@ -137,7 +135,7 @@ ln -s "$EXTERNAL/Library/Application Support/Telegram Desktop" "$HOME/Library/Ap
 ![HIKSEMI SSD plugged in](images/image-1.jpeg)
 ![HIKSEMI SSD close-up](images/image-2.jpeg)
 
-The HIKSEMI 512 GB USB-C SSD fits flush against the MacBook Air's body.
+The HIKSEMI 256 GB USB-C SSD fits flush against the MacBook Air's body.
 Because it uses USB-C directly (no cable), it occupies one port while leaving
 the other free for charging or accessories.
 
